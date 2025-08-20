@@ -11,3 +11,6 @@
 
 # unreliable files
 ./report.log
+./ml
+./model
+./outcmaes
